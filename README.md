@@ -10,10 +10,9 @@ the_gossip_project_sinatra
 │ └── gossip.csv 
 │ └── comment.csv
 ├── lib 
-│ └── app 
-│   ├── controller.rb 
-│   ├── gossip.rb 
-│   ├── comment.rb
+│ └── controller.rb 
+│ └── gossip.rb 
+│ └── comment.rb
 │ └── views 
 │   ├── index.erb 
 │   ├── edit.erb 

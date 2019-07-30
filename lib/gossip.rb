@@ -1,4 +1,3 @@
-require 'pry'
 require 'csv'
 class Gossip
 attr_accessor :author , :content
